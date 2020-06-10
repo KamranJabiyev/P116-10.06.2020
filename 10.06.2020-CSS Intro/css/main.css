@@ -1,0 +1,85 @@
+/* a{
+    color: green !important;
+    text-decoration: none;
+} */
+
+/* .sosial{
+    text-decoration: none;
+    color: white;
+    padding: 20px
+}
+
+.btn-succuss{
+    background: green;
+}
+
+.btn-primary{
+    background: blue;
+}
+
+.point{
+    cursor: none;
+}
+
+#insta{
+    color: grey;
+} */
+
+/* a{
+    color: red;
+} */
+
+/* .main .test{
+    color: red;
+} */
+
+/* .main>.test{
+    color: red;
+} */
+
+/* .main+h1{
+    color: red;
+} */
+
+/* .main~h1{
+    color: red;
+} */
+
+/* #head:hover{
+    color: grey;
+}
+
+div:first-child:hover{
+    color: red;
+} */
+
+/* a[target="_blank"]{
+    text-decoration: none;
+    color: powderblue;
+    color:rgb(234, 123, 255)
+    color: rgba(255, 0, 0, 1);
+} */
+
+
+
+/* body{
+    height: 2000px;
+    background-image: url(../img/cover.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom left;
+} */
+
+.test{
+    /* width: 50%; */
+    /* max-width: 500px; */
+    width: 200px;
+    /* max-height: 200px; */
+    min-height: 200px;
+    background: rgba(255, 0, 0, 0.2);
+    /* border-style: solid;
+    border-width: 3px;
+    border-color: red; */
+    /* border:1px solid black;
+    border-bottom-style: none; */
+}
